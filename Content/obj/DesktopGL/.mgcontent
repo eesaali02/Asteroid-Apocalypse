@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/FinalProjectV3/FinalProject/Content/asteroid.png</File>
+    <File>D:/FinalProjectV3/FinalProject/Content/Asteroid2.png</File>
+    <File>D:/FinalProjectV3/FinalProject/Content/explosion.png</File>
+    <File>D:/FinalProjectV3/FinalProject/Content/explosionSound.wav</File>
+    <File>D:/FinalProjectV3/FinalProject/Content/font.spritefont</File>
+    <File>D:/FinalProjectV3/FinalProject/Content/GameMusic.mp3</File>
+    <File>D:/FinalProjectV3/FinalProject/Content/laser.png</File>
+    <File>D:/FinalProjectV3/FinalProject/Content/laserSound.wav</File>
+    <File>D:/FinalProjectV3/FinalProject/Content/nebula.png</File>
+    <File>D:/FinalProjectV3/FinalProject/Content/ship.png</File>
+    <File>D:/FinalProjectV3/FinalProject/Content/stars.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,12 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/FinalProjectV3/FinalProject/Content/asteroid.png","D:/FinalProjectV3/FinalProject/Content/bin/DesktopGL/asteroid.xnb","TextureProcessor","Texture2DContent",859,102485,0.1457572
+"D:/FinalProjectV3/FinalProject/Content/Asteroid2.png","D:/FinalProjectV3/FinalProject/Content/bin/DesktopGL/Asteroid2.xnb","TextureProcessor","Texture2DContent",5124,41285,0.0077764
+"D:/FinalProjectV3/FinalProject/Content/explosion.png","D:/FinalProjectV3/FinalProject/Content/bin/DesktopGL/explosion.xnb","TextureProcessor","Texture2DContent",102497,409685,0.0177473
+"D:/FinalProjectV3/FinalProject/Content/explosionSound.wav","D:/FinalProjectV3/FinalProject/Content/bin/DesktopGL/explosionSound.xnb","SoundEffectProcessor","SoundEffectContent",221574,221497,0.3042777
+"D:/FinalProjectV3/FinalProject/Content/font.spritefont","D:/FinalProjectV3/FinalProject/Content/bin/DesktopGL/font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.0935632
+"D:/FinalProjectV3/FinalProject/Content/GameMusic.mp3","D:/FinalProjectV3/FinalProject/Content/bin/DesktopGL/GameMusic.xnb","SongProcessor","SongContent",9842938,127,2.419675
+"D:/FinalProjectV3/FinalProject/Content/laser.png","D:/FinalProjectV3/FinalProject/Content/bin/DesktopGL/laser.xnb","TextureProcessor","Texture2DContent",175034,803013,0.1304266
+"D:/FinalProjectV3/FinalProject/Content/laserSound.wav","D:/FinalProjectV3/FinalProject/Content/bin/DesktopGL/laserSound.xnb","SoundEffectProcessor","SoundEffectContent",29924,29985,0.1954378
+"D:/FinalProjectV3/FinalProject/Content/nebula.png","D:/FinalProjectV3/FinalProject/Content/bin/DesktopGL/nebula.xnb","TextureProcessor","Texture2DContent",7682190,67108949,2.597691
+"D:/FinalProjectV3/FinalProject/Content/ship.png","D:/FinalProjectV3/FinalProject/Content/bin/DesktopGL/ship.xnb","TextureProcessor","Texture2DContent",5728,1221017,0.0279783
+"D:/FinalProjectV3/FinalProject/Content/stars.png","D:/FinalProjectV3/FinalProject/Content/bin/DesktopGL/stars.xnb","TextureProcessor","Texture2DContent",160343,67108949,2.0118904

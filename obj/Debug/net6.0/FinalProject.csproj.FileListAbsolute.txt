@@ -1,0 +1,145 @@
+E:\School Docs\Game Design\FinalProject\bin\Debug\net6.0\FinalProject.exe
+E:\School Docs\Game Design\FinalProject\bin\Debug\net6.0\FinalProject.deps.json
+E:\School Docs\Game Design\FinalProject\bin\Debug\net6.0\FinalProject.runtimeconfig.json
+E:\School Docs\Game Design\FinalProject\bin\Debug\net6.0\FinalProject.dll
+E:\School Docs\Game Design\FinalProject\bin\Debug\net6.0\FinalProject.pdb
+E:\School Docs\Game Design\FinalProject\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Docs\Game Design\FinalProject\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Docs\Game Design\FinalProject\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Docs\Game Design\FinalProject\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Docs\Game Design\FinalProject\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Docs\Game Design\FinalProject\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Docs\Game Design\FinalProject\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Docs\Game Design\FinalProject\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Docs\Game Design\FinalProject\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Docs\Game Design\FinalProject\obj\Debug\net6.0\FinalProject.csproj.AssemblyReference.cache
+E:\School Docs\Game Design\FinalProject\obj\Debug\net6.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Docs\Game Design\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfoInputs.cache
+E:\School Docs\Game Design\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfo.cs
+E:\School Docs\Game Design\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CoreCompileInputs.cache
+E:\School Docs\Game Design\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CopyComplete
+E:\School Docs\Game Design\FinalProject\obj\Debug\net6.0\FinalProject.dll
+E:\School Docs\Game Design\FinalProject\obj\Debug\net6.0\refint\FinalProject.dll
+E:\School Docs\Game Design\FinalProject\obj\Debug\net6.0\FinalProject.pdb
+E:\School Docs\Game Design\FinalProject\obj\Debug\net6.0\FinalProject.genruntimeconfig.cache
+E:\School Docs\Game Design\FinalProject\obj\Debug\net6.0\ref\FinalProject.dll
+E:\School Docs\Game Design\FinalProject\bin\Debug\net6.0\Content\ship.xnb
+E:\School Docs\Game Design\FinalProject\bin\Debug\net6.0\Content\laser.xnb
+E:\School Docs\Game Design\FinalProject\bin\Debug\net6.0\Content\nebula.xnb
+E:\School Docs\Game Design\FinalProject\bin\Debug\net6.0\Content\stars.xnb
+E:\School Docs\Game Design\FinalProject\bin\Debug\net6.0\Content\asteroid.xnb
+E:\School Docs\Game Design\FinalProject\bin\Debug\net6.0\Content\Asteroid2.xnb
+E:\School Docs\Game Design\FinalProject\bin\Debug\net6.0\Content\explosion.xnb
+E:\School Docs\Game Design\FinalProject\bin\Debug\net6.0\Content\explosionSound.xnb
+E:\School Docs\Game Design\FinalProject\bin\Debug\net6.0\Content\font.xnb
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\asteroid.xnb
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\Asteroid2.xnb
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\explosion.xnb
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\explosionSound.xnb
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\font.xnb
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\laser.xnb
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\nebula.xnb
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\ship.xnb
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\stars.xnb
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\FinalProject.exe
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\FinalProject.deps.json
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\FinalProject.runtimeconfig.json
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\FinalProject.dll
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\FinalProject.pdb
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.csproj.AssemblyReference.cache
+D:\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfoInputs.cache
+D:\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfo.cs
+D:\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CoreCompileInputs.cache
+D:\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CopyComplete
+D:\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.dll
+D:\FinalProjectV3\FinalProject\obj\Debug\net6.0\refint\FinalProject.dll
+D:\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.pdb
+D:\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.genruntimeconfig.cache
+D:\FinalProjectV3\FinalProject\obj\Debug\net6.0\ref\FinalProject.dll
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\laserSound.xnb
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\GameMusic.ogg
+D:\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\GameMusic.xnb
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\asteroid.xnb
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\Asteroid2.xnb
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\explosion.xnb
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\explosionSound.xnb
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\font.xnb
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\GameMusic.ogg
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\GameMusic.xnb
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\laser.xnb
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\laserSound.xnb
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\nebula.xnb
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\ship.xnb
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\stars.xnb
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\FinalProject.exe
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\FinalProject.deps.json
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\FinalProject.runtimeconfig.json
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\FinalProject.dll
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\FinalProject.pdb
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.csproj.AssemblyReference.cache
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfoInputs.cache
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfo.cs
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CoreCompileInputs.cache
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CopyComplete
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.dll
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\obj\Debug\net6.0\refint\FinalProject.dll
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.pdb
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.genruntimeconfig.cache
+E:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\obj\Debug\net6.0\ref\FinalProject.dll
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\asteroid.xnb
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\Asteroid2.xnb
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\explosion.xnb
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\explosionSound.xnb
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\font.xnb
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\GameMusic.ogg
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\GameMusic.xnb
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\laser.xnb
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\laserSound.xnb
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\nebula.xnb
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\ship.xnb
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\Content\stars.xnb
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\FinalProject.exe
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\FinalProject.deps.json
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\FinalProject.runtimeconfig.json
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\FinalProject.dll
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\FinalProject.pdb
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\MonoGame.Framework.dll
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.csproj.AssemblyReference.cache
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfoInputs.cache
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfo.cs
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CoreCompileInputs.cache
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CopyComplete
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.dll
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\obj\Debug\net6.0\refint\FinalProject.dll
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.pdb
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\obj\Debug\net6.0\FinalProject.genruntimeconfig.cache
+F:\School Docs\Game Design\FinalProjectV3_3\FinalProjectV3\FinalProject\obj\Debug\net6.0\ref\FinalProject.dll

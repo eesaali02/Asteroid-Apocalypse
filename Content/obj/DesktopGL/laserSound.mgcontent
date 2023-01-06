@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/FinalProjectV3/FinalProject/Content/laserSound.wav</SourceFile>
+  <SourceTime>2022-12-09T09:02:15.2508552-05:00</SourceTime>
+  <DestFile>D:/FinalProjectV3/FinalProject/Content/bin/DesktopGL/laserSound.xnb</DestFile>
+  <DestTime>2022-12-09T09:08:59.9944293-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
